@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Raihan\WeightVerter\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class WeightVerterCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'weight-verter';
 
     public $description = 'My command';
 
