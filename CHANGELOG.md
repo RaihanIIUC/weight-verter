@@ -1,3 +1,4 @@
 # Changelog
-# 1.0.2032
-All notable changes to `weight-verter` will be documented in this file.
+# 2.0.2024
+- add ` toStones ` 
+## All notable changes to `weight-verter` will be documented in this file.
