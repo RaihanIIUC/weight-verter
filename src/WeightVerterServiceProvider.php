@@ -2,9 +2,9 @@
 
 namespace Raihan\WeightVerter;
 
+use Raihan\WeightVerter\Commands\WeightVerterCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Raihan\WeightVerter\Commands\WeightVerterCommand;
 
 class WeightVerterServiceProvider extends PackageServiceProvider
 {
